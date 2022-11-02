@@ -1,3 +1,4 @@
-.idea
-*.imp
+.idea/
+cucumber-junit4/*.iml
+cucumber-sample/*.iml
 target/
